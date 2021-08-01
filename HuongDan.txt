@@ -2,4 +2,4 @@
 Bật LMHT lên, và bấm vào hình răng cửa ở gốc trên phải LMHT
 Chuyển kích thước cửa sổ LMHT thành 1024x576
 Bấm vào sự kiện sinh nhật
-Bật tool lên và chạy
+Bật tool lên BẮT BUỘC với quyển Admin (Run as Admin) và chạy
