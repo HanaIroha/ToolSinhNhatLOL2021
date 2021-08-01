@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toolcodell", "Toolcodell\Toolcodell.csproj", "{6877CFA0-BFFC-46EB-9178-6EEF44C1AF2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6877CFA0-BFFC-46EB-9178-6EEF44C1AF2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6877CFA0-BFFC-46EB-9178-6EEF44C1AF2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6877CFA0-BFFC-46EB-9178-6EEF44C1AF2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6877CFA0-BFFC-46EB-9178-6EEF44C1AF2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A26955D2-305C-4946-9199-5E5FDC4DFDB2}
+	EndGlobalSection
+EndGlobal

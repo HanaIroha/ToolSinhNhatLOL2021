@@ -1,0 +1,10 @@
+C:\Users\Iroha\Desktop\Toolcodell\Toolcodell\bin\Debug\Toolcodell.exe.config
+C:\Users\Iroha\Desktop\Toolcodell\Toolcodell\bin\Debug\Toolcodell.exe
+C:\Users\Iroha\Desktop\Toolcodell\Toolcodell\bin\Debug\Toolcodell.pdb
+C:\Users\Iroha\Desktop\Toolcodell\Toolcodell\obj\Debug\Toolcodell.csprojAssemblyReference.cache
+C:\Users\Iroha\Desktop\Toolcodell\Toolcodell\obj\Debug\Toolcodell.Form1.resources
+C:\Users\Iroha\Desktop\Toolcodell\Toolcodell\obj\Debug\Toolcodell.Properties.Resources.resources
+C:\Users\Iroha\Desktop\Toolcodell\Toolcodell\obj\Debug\Toolcodell.csproj.GenerateResource.cache
+C:\Users\Iroha\Desktop\Toolcodell\Toolcodell\obj\Debug\Toolcodell.csproj.CoreCompileInputs.cache
+C:\Users\Iroha\Desktop\Toolcodell\Toolcodell\obj\Debug\Toolcodell.exe
+C:\Users\Iroha\Desktop\Toolcodell\Toolcodell\obj\Debug\Toolcodell.pdb
